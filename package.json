@@ -1,0 +1,22 @@
+{
+  "name": "learn_men_stack",
+  "version": "1.0.0",
+  "description": "Notes and code produced learning how to build a simple blog with Node.js, Express and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawaddle/learn_men_stack.git"
+  },
+  "author": "jawaddle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jawaddle/learn_men_stack/issues"
+  },
+  "homepage": "https://github.com/jawaddle/learn_men_stack#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
